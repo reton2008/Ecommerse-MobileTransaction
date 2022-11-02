@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "86bbc09a-0d66-43e2-8cb7-b3d2fef77d1c": {
+      "ProjectGuid": "86bbc09a-0d66-43e2-8cb7-b3d2fef77d1c",
+      "DisplayName": "LEADSeCOMMERCE",
+      "ColorIndex": 0
+    },
+    "5b9cd063-f123-4552-8e55-30664ef805bd": {
+      "ProjectGuid": "5b9cd063-f123-4552-8e55-30664ef805bd",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "628acd1a-793a-46df-a623-e85401de0708": {
+      "ProjectGuid": "628acd1a-793a-46df-a623-e85401de0708",
+      "DisplayName": "Utility",
+      "ColorIndex": 2
+    },
+    "47262fdb-669f-4ea4-9b35-8a9f91e568ff": {
+      "ProjectGuid": "47262fdb-669f-4ea4-9b35-8a9f91e568ff",
+      "DisplayName": "Models",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

@@ -1,0 +1,36 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20210224122820_AddServiceToDatabase.cs" />
+    <Compile Remove="Migrations\20210224122820_AddServiceToDatabase.Designer.cs" />
+    <Compile Remove="Migrations\20210224123322_AddServiceToDatabase.cs" />
+    <Compile Remove="Migrations\20210224123322_AddServiceToDatabase.Designer.cs" />
+    <Compile Remove="Migrations\20210224124115_Add_ServiceToDatabase.cs" />
+    <Compile Remove="Migrations\20210224124115_Add_ServiceToDatabase.Designer.cs" />
+    <Compile Remove="Migrations\20210224124541_AddServiceToDatabase.cs" />
+    <Compile Remove="Migrations\20210224124541_AddServiceToDatabase.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="3.1.11" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.11" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.11" />
+    <PackageReference Include="Microsoft.Extensions.Identity.Stores" Version="3.1.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\Migrations\" />
+    <Folder Include="Data\Initializer\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Models\Models.csproj" />
+    <ProjectReference Include="..\Utility\Utility.csproj" />
+  </ItemGroup>
+
+</Project>

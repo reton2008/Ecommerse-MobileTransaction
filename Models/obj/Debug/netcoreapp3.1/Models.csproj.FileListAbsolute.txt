@@ -1,0 +1,26 @@
+E:\Atik\Project\LEADSeCOMMERCE\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+E:\Atik\Project\LEADSeCOMMERCE\Models\bin\Debug\netcoreapp3.1\Models.dll
+E:\Atik\Project\LEADSeCOMMERCE\Models\bin\Debug\netcoreapp3.1\Models.pdb
+E:\Atik\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+E:\Atik\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+E:\Atik\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+E:\Atik\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.dll
+E:\Atik\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.pdb
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\Models\bin\Debug\netcoreapp3.1\Models.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\Models\bin\Debug\netcoreapp3.1\Models.pdb
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.csprojAssemblyReference.cache
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.pdb
+B:\atik vai\Project\LEADSeCOMMERCE\Models\bin\Debug\netcoreapp3.1\Models.deps.json
+B:\atik vai\Project\LEADSeCOMMERCE\Models\bin\Debug\netcoreapp3.1\Models.dll
+B:\atik vai\Project\LEADSeCOMMERCE\Models\bin\Debug\netcoreapp3.1\Models.pdb
+B:\atik vai\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfoInputs.cache
+B:\atik vai\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.AssemblyInfo.cs
+B:\atik vai\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.csproj.CoreCompileInputs.cache
+B:\atik vai\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.dll
+B:\atik vai\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.pdb
+B:\atik vai\Project\LEADSeCOMMERCE\Models\obj\Debug\netcoreapp3.1\Models.csproj.AssemblyReference.cache

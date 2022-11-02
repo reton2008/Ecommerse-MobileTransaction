@@ -1,0 +1,80 @@
+﻿@model Models.MobileFinance.viewModels.WalletVM;
+@{
+    var title = "Wallet Account";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form method="post" asp-action="Upsert">
+    <div class="row px-2 mx-2 backgroundWhite border">
+        <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        @if (Model.WalletAccount.Id != 0)
+        {
+            <input type="hidden" asp-for="WalletAccount.Id" />
+            title = "Edit Service";
+        }
+
+        <div class="col-12">
+            <h2 class="text-primary">@title</h2>
+            <br />
+        </div>
+        <div class="col-8">
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="WalletAccount.PhoneNumber"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="WalletAccount.PhoneNumber" class="form-control" />
+                    <span asp-validation-for="WalletAccount.PhoneNumber" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="WalletAccount.MobFinSerId"></label>
+                </div>
+                <div class="col-8">
+                    @Html.DropDownListFor(m => m.WalletAccount.MobFinSerId, Model.MobileFinanceServicesList, "- Please Select Frequency -", new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="WalletAccount.MobOperatorId"></label>
+                </div>
+                <div class="col-8">
+                    @Html.DropDownListFor(m => m.WalletAccount.MobOperatorId, Model.MobileOperatorList, "- Please Select Category -", new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="WalletAccount.Balance"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="WalletAccount.Balance" class="form-control" />
+                    <span asp-validation-for="WalletAccount.Balance" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-4">
+                    <label asp-for="WalletAccount.Active"></label>
+                </div>
+                <div class="col-8">
+                    <input asp-for="WalletAccount.Active" class="form-control" />
+                    <span asp-validation-for="WalletAccount.Active" class="text-danger"></span>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-8 offset-4">
+                    @if (Model.WalletAccount.Id != 0)
+                    {
+                        //Edit buton and bak to list
+                        <partial name="_EditAndBackToListButton" model="Model.WalletAccount.Id" />
+                    }
+                    else
+                    {
+                        //Create button and back to list
+                        <partial name="_CreateAndBackToListButton" />
+                    }
+                </div>
+            </div>
+        </div>
+    </div>
+</form>

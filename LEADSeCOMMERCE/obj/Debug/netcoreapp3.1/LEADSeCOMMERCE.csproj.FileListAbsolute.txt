@@ -1,0 +1,1419 @@
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.StaticWebAssets.xml
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.exe
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.deps.json
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.runtimeconfig.json
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.runtimeconfig.dev.json
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.pdb
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.Views.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.Views.pdb
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Security.Cryptography.Pkcs.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Cryptography.Pkcs.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\DataAccess.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Models.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Utility.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\DataAccess.pdb
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Models.pdb
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Utility.pdb
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.csprojAssemblyReference.cache
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\staticwebassets\LEADSeCOMMERCE.StaticWebAssets.Manifest.cache
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\staticwebassets\LEADSeCOMMERCE.StaticWebAssets.xml
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.MvcApplicationPartsAssemblyInfo.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.MvcApplicationPartsAssemblyInfo.cache
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorAssemblyInfo.cache
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorAssemblyInfo.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.AssemblyInfoInputs.cache
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.AssemblyInfo.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.TagHelpers.input.cache
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.TagHelpers.output.cache
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorCoreGenerate.cache
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Frequency\Index.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Frequency\Upsert.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Service\Index.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Service\Upsert.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorTargetAssemblyInfo.cache
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorTargetAssemblyInfo.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.Views.pdb
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.csproj.CopyComplete
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.dll
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.pdb
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Cart\Index.cshtml.g.cs
+E:\Atik\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Cart\Summary.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\appsettings.json
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.StaticWebAssets.xml
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.exe
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.deps.json
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.runtimeconfig.json
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.runtimeconfig.dev.json
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.pdb
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.Views.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.Views.pdb
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\DataAccess.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Models.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Utility.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\DataAccess.pdb
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Models.pdb
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Utility.pdb
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.csprojAssemblyReference.cache
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.AssemblyInfoInputs.cache
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.AssemblyInfo.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.csproj.CoreCompileInputs.cache
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.MvcApplicationPartsAssemblyInfo.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.MvcApplicationPartsAssemblyInfo.cache
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorAssemblyInfo.cache
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorAssemblyInfo.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\staticwebassets\LEADSeCOMMERCE.StaticWebAssets.Manifest.cache
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\staticwebassets\LEADSeCOMMERCE.StaticWebAssets.xml
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\scopedcss\bundle\LEADSeCOMMERCE.styles.css
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.TagHelpers.input.cache
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.TagHelpers.output.cache
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorCoreGenerate.cache
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Frequency\Index.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Frequency\Upsert.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Service\Index.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Service\Upsert.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Cart\Index.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Cart\Summary.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorTargetAssemblyInfo.cache
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorTargetAssemblyInfo.cs
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.Views.pdb
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.csproj.CopyComplete
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.dll
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.pdb
+B:\atik vai\BackUp Before  Operating\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.genruntimeconfig.cache
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.AssemblyInfoInputs.cache
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.AssemblyInfo.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.csproj.CoreCompileInputs.cache
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.MvcApplicationPartsAssemblyInfo.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.MvcApplicationPartsAssemblyInfo.cache
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorAssemblyInfo.cache
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorAssemblyInfo.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\appsettings.Development.json
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\appsettings.json
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.StaticWebAssets.xml
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.exe
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.deps.json
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.runtimeconfig.json
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.runtimeconfig.dev.json
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.pdb
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.Views.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\LEADSeCOMMERCE.Views.pdb
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\DataAccess.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Models.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Utility.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\DataAccess.pdb
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Models.pdb
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\bin\Debug\netcoreapp3.1\Utility.pdb
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\staticwebassets\LEADSeCOMMERCE.StaticWebAssets.Manifest.cache
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\staticwebassets\LEADSeCOMMERCE.StaticWebAssets.xml
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\scopedcss\bundle\LEADSeCOMMERCE.styles.css
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.TagHelpers.input.cache
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.TagHelpers.output.cache
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorCoreGenerate.cache
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Index.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Category\Upsert.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Frequency\Index.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Frequency\Upsert.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Order\Details.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Order\Index.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Service\Index.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\Service\Upsert.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\User\Index.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Cart\Index.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Cart\OrderConfirmation.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Cart\Summary.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Details.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Index.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\Home\Privacy.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewImports.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Customer\Views\_ViewStart.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\AccessDenied.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmail.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ExternalLogin.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPassword.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Lockout.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWith2fa.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DeletePersonalData.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Disable2fa.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\DownloadPersonalData.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Email.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\EnableAuthenticator.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ExternalLogins.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\Index.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\PersonalData.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ResetAuthenticator.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\TwoFactorAuthentication.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_Layout.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ManageNav.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_StatusMessage.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Manage\_ViewImports.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPassword.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_StatusMessage.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\Error.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\MobileFinance\Views\MobileFinanceServices\Index.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\MobileFinance\Views\MobileFinanceServices\Upsert.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\MobileFinance\Views\MobileOperator\Index.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\MobileFinance\Views\MobileOperator\Upsert.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\MobileFinance\Views\_ViewImports.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\MobileFinance\Views\_ViewStart.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CreateAndBackToListButton.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_EditAndBackToListButton.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorTargetAssemblyInfo.cache
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.RazorTargetAssemblyInfo.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.Views.pdb
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.csproj.CopyComplete
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.dll
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.pdb
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.genruntimeconfig.cache
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\MobileFinance\Views\WalletAccount\Index.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\MobileFinance\Views\WalletAccount\Upsert.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\LEADSeCOMMERCE.csproj.AssemblyReference.cache
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\MobileFinance\Views\CashWallet\Index.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\MobileFinance\Views\CashWallet\Upsert.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\MobileFinance\Views\ServiceCashWallet\Index.cshtml.g.cs
+B:\atik vai\Project\LEADSeCOMMERCE\LEADSeCOMMERCE\obj\Debug\netcoreapp3.1\Razor\Areas\MobileFinance\Views\ServiceCashWallet\Upsert.cshtml.g.cs

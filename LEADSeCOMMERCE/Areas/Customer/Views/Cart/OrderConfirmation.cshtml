@@ -1,0 +1,20 @@
+﻿@model int
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="container row">
+    <div class="col-12 text-center">
+        <h1 class="text-primary text-center"> Order request is submitted</h1>
+        <img src="~/images/lawn-leaf.jpg" width="50%" /> 
+    </div>
+    <div class="col-12 text-center" style="color:maroon">
+        <br>
+        Thank you for submitting a request online! <br/>
+        We have recieved your request and our team will call you shortly!
+        <br>
+        Your Request Number:  @Model
+    </div>
+</div>
